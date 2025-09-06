@@ -1,2 +1,2 @@
-# HarshReshamwala.github.io
+# Clock
 Data Visualization HW1
